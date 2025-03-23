@@ -17,6 +17,7 @@ Country Selection: Choose from a global list of countries.
 Year Navigation: Scroll through data from 1901 to 2100 using a timeline control. 
 
 Smooth Transitions: Seamless animations and updates for an engaging experience. 
+![Screenshot 2025-03-23 075344](https://github.com/user-attachments/assets/72b63c59-4e26-424c-84e3-f7c5b851f14f)
 
 Data Source and Methodology 
 
@@ -26,7 +27,8 @@ This ensures continuity and offers valuable insights into future climate trends,
 
  
 
- 
+ ![Screenshot 2025-03-23 075241](https://github.com/user-attachments/assets/31e9b419-39cc-4b1b-83a8-1232ec8fcd24)
+
 
 Technical Stack 
 
@@ -81,6 +83,8 @@ Global language support for broader reach.
 Conclusion 
 
 This portal transforms raw climate data into accessible, interactive, and engaging visual narratives, empowering users to understand the past, monitor the present, and prepare for the future. Its potential as a scalable product in the growing climate-tech space is immense, with diverse use cases across education, policy, media, and corporate sectors. 
+![Screenshot 2025-03-23 075344](https://github.com/user-attachments/assets/da4f0f9e-e163-4844-9760-010798dc668e)
+![Screenshot 2025-03-23 075359](https://github.com/user-attachments/assets/e8cde9fc-35d1-45e8-b381-d309426358ce)
 
  
 
