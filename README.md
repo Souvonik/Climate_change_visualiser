@@ -90,4 +90,9 @@ This portal transforms raw climate data into accessible, interactive, and engagi
 
 With a foundation in data science and visualization, and driven by the urgency of climate change, this platform is poised to make a real-world impact. 
 
- 
+
+##Dependencies
+``` Terminal
+python -m http.server{port number}
+
+``` 
